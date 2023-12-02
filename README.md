@@ -1,7 +1,7 @@
 # MailStorm
 
 <div align="center">
-  <img src="https://github.com/0xJuaNc4/MailStorm/assets/130152767/e78fa631-03c3-4990-a72c-7c61fb994c13">
+  <img src="https://github.com/0xJuaNc4/MailStorm/assets/130152767/a66c38e9-7f60-4d62-a2fc-e6cac8f934db">
 </div>
 
 <br>
