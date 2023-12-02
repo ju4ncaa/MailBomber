@@ -6,4 +6,4 @@
 
 <br>
 
-MailStorm, herramienta hecha en Python diseñada para llevar a cabo ataques de email spamming de manera efectiva y sencilla.
+MailStorm, herramineta desarrollada en Python, que permite llevar a cabo ataques de email spamming de manera efectiva y sencilla. Puediendo realizar el envío masivo de correos electrónicos no solicitados a una gran cantidad de destinatarios.
