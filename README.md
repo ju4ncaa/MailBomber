@@ -1,4 +1,4 @@
-# MailStorm
+# MailBomber
 
 <div align="center">
   <img src="https://github.com/0xJuaNc4/MailStorm/assets/130152767/5b6500eb-6ca4-4644-a6c2-9fb19bd811ae" width="170px">
@@ -39,13 +39,13 @@ Antes de ejecutar el script es crucial tener una "contraseña de aplicación" ge
 
 Clona el repositorio:
 ```
-git clone https://github.com/tuusuario/MailStorm.git
+git clone https://github.com/tuusuario/MailBomber.git
 ```
 Entra en el directorio del proyecto:
 ```
-cd MailStorm
+cd MailBomber
 ```
 Ejecuta el script:
 ```
-python mailstorm.py
+python mailbomber.py
 ```
