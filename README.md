@@ -12,7 +12,7 @@ Herramienta desarrollada en Python, que permite llevar a cabo ataques de email s
 
 Clona el repositorio:
 ```
-git clone https://github.com/tuusuario/Ma.git
+git clone https://github.com/tuusuario/MailStorm.git
 ```
 Entra en el directorio del proyecto:
 ```
