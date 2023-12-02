@@ -50,5 +50,3 @@ Ejecuta el script:
 ```
 python mailstorm.py
 ```
-
-## Ejemplo de uso
