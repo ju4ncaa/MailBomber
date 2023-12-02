@@ -28,7 +28,7 @@ Antes de ejecutar el script es crucial tener una "contraseña de aplicación" ge
 
 4. **Genera la Contraseña de Aplicación:** En la sección de "Contraseñas de aplicaciones", elige "Seleccionar aplicación" y "Otro (nombre personalizado)". A continuación, haz clic en "Generar".
 
-<img src="https://github.com/0xJuaNc4/MailStorm/assets/130152767/eaeb45dc-dfe8-402d-b8b4-dc2353b34f66" width="500px">
+<img src="https://github.com/0xJuaNc4/MailBomber/assets/130152767/96b13b0a-4ee4-44d9-ae45-ae160227d678" width="500px">
 
  **Copia la Contraseña Generada:** Se te proporcionará una contraseña específica para la aplicación. Copia esta contraseña, ya que la necesitarás al ejecutar el script.
 
