@@ -18,12 +18,12 @@ class Colors:
 def banner():
     os.system("cls" if os.name == "nt" else "clear")
     print(f"""{Colors.PURPLE}
-    ╭━╮╭━╮╱╱╱╭╮╭━━━╮╭╮
-    ┃┃╰╯┃┃╱╱╱┃┃┃╭━╮┣╯╰╮
-    ┃╭╮╭╮┣━━┳┫┃┃╰━━╋╮╭╋━━┳━┳╮╭╮
-    ┃┃┃┃┃┃╭╮┣┫┃╰━━╮┃┃┃┃╭╮┃╭┫╰╯┃  {Colors.RESET}(Hecho por {Colors.YELLOW}0xJuaNc4{Colors.RESET}){Colors.PURPLE}
-    ┃┃┃┃┃┃╭╮┃┃╰┫╰━╯┃┃╰┫╰╯┃┃┃┃┃┃
-    ╰╯╰╯╰┻╯╰┻┻━┻━━━╯╰━┻━━┻╯╰┻┻╯
+    ╭━╮╭━╮╱╱╱╭╮╭━━╮╱╱╱╱╱╱╭╮
+    ┃┃╰╯┃┃╱╱╱┃┃┃╭╮┃╱╱╱╱╱╱┃┃
+    ┃╭╮╭╮┣━━┳┫┃┃╰╯╰┳━━┳╮╭┫╰━┳━━┳━╮
+    ┃┃┃┃┃┃╭╮┣┫┃┃╭━╮┃╭╮┃╰╯┃╭╮┃┃━┫╭╯  {Colors.RESET}(Hecho por {Colors.YELLOW}0xJuaNc4{Colors.RESET}){Colors.PURPLE}
+    ┃┃┃┃┃┃╭╮┃┃╰┫╰━╯┃╰╯┃┃┃┃╰╯┃┃━┫┃
+    ╰╯╰╯╰┻╯╰┻┻━┻━━━┻━━┻┻┻┻━━┻━━┻╯
     {Colors.RESET}""")
     sleep(1)
 
