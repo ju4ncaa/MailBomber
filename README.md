@@ -6,4 +6,4 @@
 
 <br>
 
-Herramienta desarrollada en Python, que permite llevar a cabo ataques de email spamming de manera efectiva y sencilla. este script utiliza el servicio de correo electrónico de Gmail para enviar múltiples correos electrónicos a una dirección de correo electrónico específica.
+Herramienta desarrollada en Python, que permite llevar a cabo ataques de email spamming de manera efectiva y sencilla. Este script utiliza el servicio de correo electrónico de Gmail para enviar múltiples correos electrónicos a una dirección de correo electrónico específica.
