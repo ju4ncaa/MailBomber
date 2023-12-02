@@ -1,9 +1,8 @@
 # MailStorm
 
 <div align="center">
-  <img src="https://github.com/0xJuaNc4/MailStorm/assets/130152767/a66c38e9-7f60-4d62-a2fc-e6cac8f934db">
+  <img src="https://github.com/0xJuaNc4/MailStorm/assets/130152767/5b6500eb-6ca4-4644-a6c2-9fb19bd811ae" width="170px">
 </div>
-
 <br>
 
 Herramienta desarrollada en Python, que permite llevar a cabo ataques de email spamming de manera efectiva y sencilla. Este script utiliza el servicio de correo electrónico de Gmail para enviar múltiples correos electrónicos a una dirección de correo electrónico específica.
