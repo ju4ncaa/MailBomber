@@ -39,7 +39,7 @@ Antes de ejecutar el script es crucial tener una "contraseña de aplicación" ge
 
 Clona el repositorio:
 ```
-git clone https://github.com/tuusuario/MailBomber.git
+git clone https://github.com/tuusuario/MailBomber
 ```
 Entra en el directorio del proyecto:
 ```
