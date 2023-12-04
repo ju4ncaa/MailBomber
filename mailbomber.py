@@ -63,11 +63,12 @@ def send_email():
             server.login(os.getenv("USER"), os.getenv("PASS"))
             server.sendmail(os.getenv("USER"), victim_email, message)
             num_counter+=1
-            print(f"\n{Colors.GREEN}[*]{Colors.RESET} Correo {num_counter} enviado!")
+            print(f"\r{Colors.GREEN}[*]{Colors.RESET} Correo enviados existosamente: {Colors.YELLOW}{num_counter}{Colors.RESET}", end="", flush=True)
             if counter == num_counter:
-                print(f"\n{Colors.YELLOW}[*]{Colors.RESET} {num_counter} correos enviados exitosamente a {Colors.PURPLE}{victim_email}{Colors.RESET}")
-    except:
+                print(f"\n\n{Colors.YELLOW}[*]{Colors.RESET} {num_counter} correos enviados exitosamente a {Colors.PURPLE}{victim_email}{Colors.RESET}")
+    except Exception as e:
         print(f"\n{Colors.RED}[!]{Colors.RESET} La información introducida es incorrecta, no se puede llevar a cabo el ataque")
+        print(e)
     
 #Programa principal
 if __name__ == "__main__":
