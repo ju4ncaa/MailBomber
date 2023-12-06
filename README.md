@@ -12,7 +12,7 @@ Tool developed in Python, which allows to carry out email spamming attacks in an
 1. Verify that you have all the necessary modules installed using the command:
 
 ```
-pip3 install -r requeriments.txt
+pip3 install -r requirements.txt
 ```
 
 2. Before running the script it is crucial to have an "application password" generated for your email account. This is necessary to allow the script to send emails on your behalf without compromising your main account password.
